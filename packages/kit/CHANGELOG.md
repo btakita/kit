@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.135
+
+### Patch Changes
+
+- 34b923d1: [chore] stricter TypeScript checking
+
 ## 1.0.0-next.134
 
 ### Patch Changes

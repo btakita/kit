@@ -7,17 +7,17 @@
 		"start": "svelte-kit start"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-cloudflare-workers": "next",
-		"@sveltejs/adapter-netlify": "next",
-		"@sveltejs/adapter-vercel": "next",
-		"@sveltejs/kit": "next",
-		"svelte": "^3.34.0",
-		"svelte-preprocess": "^4.7.3",
+		"@sveltejs/adapter-cloudflare-workers": "workspace:next",
+		"@sveltejs/adapter-netlify": "workspace:next",
+		"@sveltejs/adapter-vercel": "workspace:next",
+		"@sveltejs/kit": "workspace:next",
+		"svelte": "^3.40.0",
+		"svelte-preprocess": "^4.7.4",
 		"typescript": "^4.3.5"
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource/fira-mono": "^4.2.2",
+		"@fontsource/fira-mono": "^4.5.0",
 		"@lukeed/uuid": "^2.0.0",
 		"cookie": "^0.4.1"
 	}

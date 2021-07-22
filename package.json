@@ -23,9 +23,9 @@
 	"homepage": "https://github.com/sveltejs/kit#readme",
 	"devDependencies": {
 		"@changesets/cli": "^2.16.0",
-		"@rollup/plugin-commonjs": "^17.1.0",
+		"@rollup/plugin-commonjs": "^19.0.1",
 		"@rollup/plugin-json": "^4.1.0",
-		"@rollup/plugin-node-resolve": "^11.2.1",
+		"@rollup/plugin-node-resolve": "^13.0.2",
 		"@sveltejs/eslint-config": "github:sveltejs/eslint-config#v5.7.0",
 		"@typescript-eslint/eslint-plugin": "^4.28.4",
 		"@typescript-eslint/parser": "^4.28.4",
@@ -33,7 +33,7 @@
 		"eslint-plugin-import": "^2.23.4",
 		"eslint-plugin-svelte3": "^3.2.0",
 		"playwright-chromium": "^1.13.0",
-		"prettier": "2.2.1",
+		"prettier": "2.3.2",
 		"rollup": "^2.53.3",
 		"typescript": "^4.3.5"
 	},

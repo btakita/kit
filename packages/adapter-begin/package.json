@@ -16,7 +16,7 @@
 		"index.d.ts"
 	],
 	"dependencies": {
-		"@architect/parser": "^3.0.1"
+		"@architect/parser": "^4.0.0"
 	},
 	"devDependencies": {
 		"@sveltejs/kit": "workspace:*",
